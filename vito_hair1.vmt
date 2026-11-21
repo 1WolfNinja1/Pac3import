@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"models/humans/male/vito/vito_hair1"
+
+	"$alphatest" 1
+	"$halflambert" 1
+
+
+}
